@@ -12,7 +12,8 @@ original dataset where merged into a single dataset.
 The columns names are available at the first row of the file and correspond to:
 
 1) Subject -    Integer from 1 to 30, corresponding to each of the 30 subjects 
-                participating in the experiment. 
+                participating in the experiment.
+                
 2) Activity -   Factor indicating each of the six possible activities performed
                 by the subjects during the experiment.
 

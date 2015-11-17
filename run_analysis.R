@@ -1,5 +1,5 @@
 ##currentdir <- getwd()
-##setwd("C://Users//paulofv//coursera//Getting&CleaningData//project")
+##setwd("C://Users//paulofv//coursera//GettingAndCleaningData//project")
 
 ##
 ## This script reads data from UCI HAR dataset, merges test and trainning datasets,

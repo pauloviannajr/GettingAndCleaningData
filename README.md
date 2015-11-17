@@ -36,7 +36,8 @@ UCI HAR Dataset/train/y_train.txt and UCI HAR Dataset/train/subject_train.txt
 4) replaces the Numeric Label by a Descriptive Activity Label on both test
 and trainning sets
 
-5) extracts only mean and standard deviation measurements
+5) extracts only variables with the string "mean()" and "std()" within their 
+names, i.e. only mean and standard deviation measurements.
 
 6) merge test and trainning datasets, labelling the variables
 
